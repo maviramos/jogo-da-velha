@@ -4,4 +4,4 @@
 
 ## Executar projeto:
 
-### `npm start`
+### `https://vitoriamaria01.github.io/jogo-da-velha/`
