@@ -4,4 +4,4 @@
 
 ## Executar projeto:
 
-### `https://vitoriamaria01.github.io/jogo-da-velha/`
+ `https://vitoriamaria01.github.io/jogo-da-velha/`
